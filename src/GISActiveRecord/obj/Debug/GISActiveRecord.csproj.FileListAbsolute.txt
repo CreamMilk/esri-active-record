@@ -1,0 +1,5 @@
+C:\projetos\gea_2_0\Builds\Debug\GISActiveRecord.dll
+C:\projetos\gea_2_0\Builds\Debug\GISActiveRecord.pdb
+C:\projetos\gea_2_0\GISActiveRecord\GISActiveRecord\obj\Debug\ResolveAssemblyReference.cache
+C:\projetos\gea_2_0\GISActiveRecord\GISActiveRecord\obj\Debug\GISActiveRecord.dll
+C:\projetos\gea_2_0\GISActiveRecord\GISActiveRecord\obj\Debug\GISActiveRecord.pdb

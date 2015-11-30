@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GISActiveRecord.Attributes.BelongsToAttribute">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\BelongsTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.WorkspaceAttribute" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAABAQCAAEAAAAAAAAACAAAACAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Attributes\WorkspaceAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.DomainFieldAttribute">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Attributes\DomainFieldAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.FieldAttribute">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCAAAAABAAAgAgAAAAABKAAAAEAAEAAIAAAAA=</HashCode>
+      <FileName>Attributes\FieldAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.HasManyAttribute">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\HasManyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.OneToOneAttribute">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\OneToOneAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.PrimaryFieldAttribute">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\PrimaryFieldAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.RelationshipAttribute">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\RelationshipAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.RelationshipClassFieldAttribute">
+    <Position X="7" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\RelationshipClassAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.TableAttribute" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAEAAAAAAAAIAAAQABAAA=</HashCode>
+      <FileName>Attributes\TableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Attributes.RepositoryAttribute" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\RepositoryAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

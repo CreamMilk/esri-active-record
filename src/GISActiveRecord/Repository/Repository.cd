@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GISActiveRecord.Controllers.ControllerException">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAEAAAAAAACACAAAAAAEAAAASCBAAA=</HashCode>
+      <FileName>Controllers\ControllerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Controllers.ControllerQueryException">
+    <Position X="2" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\ControllerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GISActiveRecord.Controllers.Controller&lt;T&gt;">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAMAAgCAAAABAAABQAICAABUAAEgAAAACABAYAAA=</HashCode>
+      <FileName>Controllers\Controller.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="GISActiveRecord.Controllers.IController&lt;T&gt;">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAEAAgAAAAAAAAABQAACAABUAAEgAAAACABAIAAA=</HashCode>
+      <FileName>Controllers\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

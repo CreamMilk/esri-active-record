@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISActiveRecord", "GISActiveRecord\GISActiveRecord.csproj", "{D0098081-4362-4FB8-B54A-B43318FBDFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISActiveRecordTests", "GISActiveRecordTests\GISActiveRecordTests.csproj", "{9A762853-0A51-4E49-8FA5-1FFEF45CBAA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{554AA374-CC75-4DF8-9155-B9D99C597142}"
+	ProjectSection(SolutionItems) = preProject
+		GISActiveRecord.vsmdi = GISActiveRecord.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = GISActiveRecord.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0098081-4362-4FB8-B54A-B43318FBDFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0098081-4362-4FB8-B54A-B43318FBDFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0098081-4362-4FB8-B54A-B43318FBDFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0098081-4362-4FB8-B54A-B43318FBDFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A762853-0A51-4E49-8FA5-1FFEF45CBAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A762853-0A51-4E49-8FA5-1FFEF45CBAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A762853-0A51-4E49-8FA5-1FFEF45CBAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A762853-0A51-4E49-8FA5-1FFEF45CBAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
